@@ -6,4 +6,3 @@ My favorite language is python, but I can write scripts in just about every lang
 - 🌱 I’m currently learning mySQL and Unity C#
 - 💬 Ask me about collaborations
 - 📫 How to reach me: email -wmears@conncoll.edu
--->
