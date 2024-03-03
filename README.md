@@ -1,8 +1,7 @@
 ### Hi there 👋
-My name is William Mears, and I am a young coder attending Connecticut College!
+My name is William Mears, and I am a software engineer at a weavix!
 I have always loved to code, and would love to collaborate on any projects!
-My favorite languages are Java, Python, and Matlab!
-- 🔭 I’m currently working on mastering computer networks
-- 🌱 I’m currently learning how to master computer networks
+I have experience working in Java, Python, NodeJS, HTML, and Matlab!
+- 🔭 I’m currently working on learning more about artificial intelligence
 - 💬 Ask me about collaborations
-- 📫 How to reach me: email -wmears@conncoll.edu
+- 📫 How to reach me: email -will.mears50@gmail.com
